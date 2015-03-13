@@ -1,0 +1,94 @@
+﻿Build started 10.11.2014 23:28:46.
+     1>Project "D:\Facultate\EGC\Tema1 - Geometry Dash\tema1\tema1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GameUI\Icon.cpp
+         Icon.cpp
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(16): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(16): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(63): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(68): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(68): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(68): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(69): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(69): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(69): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(71): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(71): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(71): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(73): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(73): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(73): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(74): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(74): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(74): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(84): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(84): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(84): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(84): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(84): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(141): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(141): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(142): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(142): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(143): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(143): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(144): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(144): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(145): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(145): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(146): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(146): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(158): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(158): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(162): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(163): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(165): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(170): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(170): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(171): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(171): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(172): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(172): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(180): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(180): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(182): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(187): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(187): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(188): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(188): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(190): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(199): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(199): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(211): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(211): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(244): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(245): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(247): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(247): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(248): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(251): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(265): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(280): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(295): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\egc\tema1 - geometry dash\tema1\gameui\icon.cpp(310): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Facultate\EGC\Tema1 - Geometry Dash\Debug\Tema1.exe" /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Tema1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Facultate\EGC\Tema1 - Geometry Dash\Debug\Tema1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Facultate\EGC\Tema1 - Geometry Dash\Debug\Tema1.lib" /MACHINE:X86 Debug\Background.obj
+         Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Visual2D.obj
+         Debug\Icon.obj
+         Debug\main.obj
+         Debug\Scene.obj
+         Debug\Stats.obj
+         Debug\Particles.obj
+         LINK : D:\Facultate\EGC\Tema1 - Geometry Dash\Debug\Tema1.exe not found or not built by the last incremental link; performing full link
+         tema1.vcxproj -> D:\Facultate\EGC\Tema1 - Geometry Dash\Debug\Tema1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Facultate\EGC\Tema1 - Geometry Dash\Debug\Tema1.exe;#1" /manifest Debug\Tema1.exe.intermediate.manifest
+     1>Done Building Project "D:\Facultate\EGC\Tema1 - Geometry Dash\tema1\tema1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.02
